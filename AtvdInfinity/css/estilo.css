@@ -1,0 +1,58 @@
+body{
+    background-color: #1579c5;
+}
+
+header{
+    text-align: center;
+    font-family: Arial;
+ 
+    font-size: 29px;
+}
+
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+nav a{
+    text-align: center;
+    font-size: 24px;
+    padding: 18px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+nav a{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+nav a:hover{
+    text-decoration: underline;
+}
+
+.mensagem{
+    color: #F6FAFA;
+    font-family: Arial;
+    font-size: 20px;
+    text-align: center;
+    padding: 23px;
+    line-height: 28px;
+}
+
+fieldset{
+    padding-top: 5px;
+    background-color: #13629e;
+    border-radius: 10px;
+    padding-bottom: 5px;
+}
+
+
+h2{
+    color: #F6FAFA;
+    font-family: Arial;
+    text-align: center;
+}
